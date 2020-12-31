@@ -23,6 +23,9 @@ __DISCLAIMER:__ This repo contains project documentations written in german.
 
 ### Documentation
 
+The complete project documentation can be found [here](https://github.com/carlobiermann/labview-projects/blob/master/docs/Dokumentation-Projekt1-OWIS-Messaufbau.pdf).
+
+
 ## Project 2: Morse Decoder
 
 #### Front panel
@@ -32,6 +35,8 @@ __DISCLAIMER:__ This repo contains project documentations written in german.
 ![project2-block](https://github.com/carlobiermann/labview-projects/blob/master/pics/projekt-2-block.png)
 
 ### Documentation
+
+The project documentation can be found [here](https://github.com/carlobiermann/labview-projects/blob/master/docs/Dokumentation-Projekt2-Morse-Decoder.pdf).
 
 ### Video
 
