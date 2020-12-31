@@ -35,6 +35,6 @@ __DISCLAIMER:__ This repo contains project documentations written in german.
 
 ### Video
 
-You can watch the video of the Morse Decoder in action [here](https://drive.google.com/file/d/1HypPBfhAAqiCCtA1bQ8TMqxodvWHiOYY/view?usp=sharing)
+You can watch the video of the Morse Decoder in action [here](https://drive.google.com/file/d/1HypPBfhAAqiCCtA1bQ8TMqxodvWHiOYY/view?usp=sharing).
 
 ![project2-video](https://github.com/carlobiermann/labview-projects/blob/master/pics/projekt-2-video.png)
