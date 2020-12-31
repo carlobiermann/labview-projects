@@ -15,7 +15,7 @@ __DISCLAIMER:__ This repo contains project documentations written in german.
 
 ## Project 1: Automated linear and rotary stages 
 
-#### Frontpanel
+#### Front panel
 ![project1-front](https://github.com/carlobiermann/labview-projects/blob/master/pics/projekt-1-front.png)
 
 #### Block diagram
@@ -25,6 +25,13 @@ __DISCLAIMER:__ This repo contains project documentations written in german.
 
 ## Project 2: Morse Decoder
 
+#### Front panel
+![project2-front](https://github.com/carlobiermann/labview-projects/blob/master/pics/projekt-2-front.png)
+
+#### Block diagram
+![project2-block](https://github.com/carlobiermann/labview-projects/blob/master/pics/projekt-2-block.png)
+
 ### Documentation
 
-### Video 
+### Video
+![project2-video](https://github.com/carlobiermann/labview-projects/blob/master/pics/projekt-2-video.png)
