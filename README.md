@@ -15,8 +15,8 @@ __DISCLAIMER:__ This repo contains project documentations written in german.
 
 ## Project 1: Automated linear and rotary stages 
 
-For this project I designed a system to automatically control linear and rotary stages in a *laser-induce breakdown spectroscopy* setup. I had to figure out path algorithms for the stages, so that the laser will cover most of the sample area. 
-The algorithms had to also adapt to the different dimensions of the samples. Below you can find the GUI of the progam (Front Panel) and the visual code blocks (Block Diagram) from LabView.
+For this project I designed a system to automatically control linear and rotary stages in a *laser-induced breakdown spectroscopy* setup. I had to figure out path algorithms for the stages, so that the laser will cover most of the sample area. 
+The algorithms had to adapt to the different dimensions of the samples. Below you can find the GUI of the progam (Front Panel) and the visual code blocks (Block Diagram) from LabView.
 
 #### Front panel
 ![project1-front](https://github.com/carlobiermann/labview-projects/blob/master/pics/projekt-1-front.png)
